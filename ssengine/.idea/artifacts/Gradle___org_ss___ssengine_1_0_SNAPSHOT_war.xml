@@ -11,6 +11,10 @@
           <element id="module-output" name="ssengine_main" />
           <element id="dir-copy" path="$PROJECT_DIR$/build/resources/main" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="spring" />
+          <element id="library" level="project" name="log4j" />
+        </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/ssengine/exploded/ssengine-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
